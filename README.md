@@ -1,4 +1,4 @@
-# Space Invaders GalacticLaser Hunt
+# Space Invaders Galactic Laser Hunt
 #### Columbia University Art of Engineering Spring 2026            
 Authors: Noel Negron, Robert Pendergrast, Samuel Thomason, Derek Martinez 
 
