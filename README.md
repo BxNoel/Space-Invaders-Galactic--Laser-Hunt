@@ -1,8 +1,6 @@
-# Galatic Laser Hunt
-### Authors: Noel Negron, Robbert Pendergrast, Samuel Thomason, Derek Martinez
-### Columbia University 
-
-![](https://github.com/BxNoel/SpaceInvaders/blob/main/SpaceInvaders.gif)
+# Galatic Laser Hun
+#### Columbia University Art of Engineering Spring 2026            
+Authors: Noel Negron, Robbert Pendergrast, Samuel Thomason, Derek Martinez 
 
 ## Project Description
 
@@ -26,6 +24,7 @@ will be designed using 3D modeling software. These models will be used for visua
 3. Servo Motors: Actuating the falling motion of the targets upon detection of the blaster's beam.
 4. LED Lights: Installed in tandem with each target, providing visual feedback to the player upon successful hits.
 
+![](https://github.com/BxNoel/SpaceInvaders/blob/main/SpaceInvaders.gif)
 
 
 
